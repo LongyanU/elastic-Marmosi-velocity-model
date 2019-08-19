@@ -1,1 +1,1 @@
-# staggered-grid-k-space-elastic-Marmosi
+elastic-Marmosi velocity model
